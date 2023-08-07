@@ -1,7 +1,5 @@
 # Responsive Website Tribute Page
 
-![Tribute Page](tribute_page_image.png)
-
 Welcome to the README for the Responsive Website Tribute Page project. This project involves creating a responsive and visually appealing web page dedicated to paying tribute to a person, event, or topic of significance. The page should be accessible and well-designed for various screen sizes.
 
 ## Table of Contents
